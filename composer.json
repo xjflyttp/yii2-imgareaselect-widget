@@ -1,0 +1,22 @@
+{
+    "name": "xj/yii2-imgareaselect-widget",
+    "description": "yii2-imgareaselect-widget",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "xjflyttp",
+            "email": "xjflyttp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/imgareaselect": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "xj\\imgareaselect\\": ""
+        }
+    }
+}
